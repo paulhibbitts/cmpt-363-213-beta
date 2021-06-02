@@ -5,9 +5,6 @@
 ## One-Minute Summaries and Questions  
 [Design Heuristics Lecture with Scott Klemmer, a Video Playlist](https://canvas.sfu.ca/courses/59869/assignments/583082) <span class='badge'> Thu Feb 4th 11:59pm PT </span>
 
-## Weekly Quiz
-No weekly review quiz.  
-
 ## Required Readings  
 [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
 

@@ -1,15 +1,11 @@
 ![UX - User Experience](assets/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
-# What is usability and user experience design?
+# What is usability, user experience design and systems thinking?
 
 ## One-Minute Summaries and Questions  
 
 [Defining usability](https://paulhibbitts.github.io/docsify-cmpt-363-211-demo/#/) <span class='badge'> Thu Jan 14th 11:59pm PT </span>  
 [The UX Pyramid](https://paulhibbitts.github.io/docsify-cmpt-363-211-demo/#/) <span class='badge'> Thu Jan 14th 11:59pm PT </span>  
-
-## Weekly Quiz
-
-[Week 1 Review Quiz (Practice)](https://canvas.sfu.ca/courses/62884/assignments/642591) <span class='badge'> Sun Jan 17th 11:59pm PT </span>  
 
 ## Required Readings  
 

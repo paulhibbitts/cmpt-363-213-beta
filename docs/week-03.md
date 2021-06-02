@@ -1,4 +1,4 @@
-![Usability Test](assets/images/4642289926_7964e733d1_b.jpg ':class=banner-image')
+![Complex User Interface](assets/images/2760207306_21ac555261_b.jpg ':class=banner-image')
 
 # How to conduct a user interface inspection?
 
@@ -8,9 +8,6 @@
 ## One-Minute Summaries and Questions  
 [How to Use Heuristic Evaluations to Improve Product Designs](https://canvas.sfu.ca/courses/59869/assignments/583032) <span class='badge'>Thu Jan 28th 11:59pm PT</span>  
 [Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/59869/assignments/583035) <span class='badge'>Thu Jan 28th 11:59pm PT</span>  
-
-## Weekly Quiz
-[Week 3 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642596) <span class='badge'>Sun Jan 31st 11:59pm PT</span>  
 
 ## Required Readings  
 [How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  

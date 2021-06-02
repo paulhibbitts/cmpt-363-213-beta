@@ -3,7 +3,7 @@
 <div class="accordion">
 
 <details>
-  <summary>What is Usability and User Experience Design?</summary>
+  <summary>What is Usability, User Experience Design and Systems Thinking?</summary>
 
 [Agile](ux-techniques-guide/01.what-is-usability-and-user-experience-design/agile-ux.md ':include')
 
@@ -17,18 +17,20 @@
 
 [Scenario-based Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/scenario-based-design.md ':include')
 
+[Systems Thinking](ux-techniques-guide/01.what-is-usability-and-user-experience-design/systems-thinking.md ':include')
+
 [Usability](ux-techniques-guide/01.what-is-usability-and-user-experience-design/usability.md ':include')
 
 [User Experience Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/user-experience-design.md ':include')
 
-[User Interface Design ](ux-techniques-guide/01.what-is-usability-and-user-experience-design/user-interface-design.md ':include')
+[User Interface Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/user-interface-design.md ':include')
 
 </details>
 
 <details>
   <summary>How to Understand and Communicate People's Needs and Behaviors?</summary>
 
-[Affinity Diagrams ](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/affinity-diagrams.md ':include')
+[Affinity Diagrams](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/affinity-diagrams.md ':include')
 
 [Card Sorts](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/card-sorts.md ':include')
 
