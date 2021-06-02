@@ -12,4 +12,4 @@ Is this your first fully online course? If so, you might find these articles mig
 * [What Makes a Successful Online Learner?](https://careerwise.minnstate.edu/education/successonline.html)
 * [How to study at home during coronavirus – by online students and tutors](https://www.theguardian.com/education/2020/mar/26/how-to-study-at-home-during-coronavirus-by-online-students-and-tutors)
 
-Weekly course materials will be posted here by Monday of each week. After the first week, one-minute summaries are due on Thursday each week. Major assignments are usually due on Sundays.
+Weekly course materials will be posted here by Monday of each week. After the first week, one-minute summaries are due on Thursday each week. Major assignments are usually due by midnight on Sundays.

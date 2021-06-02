@@ -1,7 +1,7 @@
 # Schedule
 
 ## :fas fa-calendar fa-fw: [Week 1 (Sep 8 - 12)](week-01)
-**Course overview/What is usability, user experience design and systems thinking?**  
+**Course overview/What is usability, UX design and systems thinking?**  
 :fas fa-desktop fa-fw: Course Overview <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [TBD](#)</span>  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  

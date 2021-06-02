@@ -3,7 +3,7 @@
 
 # What’s Happening First Week 💫
 
-## Course overview/What is usability, user experience design and systems thinking?
+## Course overview/What is usability, UX design and systems thinking?
 
 ### [Live Online Sessions](#)  
 
