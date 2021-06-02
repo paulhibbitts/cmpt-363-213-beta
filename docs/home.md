@@ -3,7 +3,7 @@
 
 # What’s Happening First Week 💫
 
-## Course overview/What is usability and user experience design?
+## Course overview/What is usability, user experience design and systems thinking?
 
 ### [Live Blackboard Collaborate Sessions](#)  
 
@@ -23,7 +23,7 @@
 <div class="row">
 <div class="column">
 
-Chat 1-on-1 Office Hours  
+Chat 1-on-1 Office Hours:  
 Contact Paul here or [CSSS Discord](https://t.co/GZQUc6iVjS):  
 TBD
 

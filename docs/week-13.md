@@ -1,10 +1,12 @@
 ![Prototype Drawings](assets/images/amelie-mourichon-YHNOwnrDzjY-unsplash.jpg ':class=banner-image')
 
-# Instructor Design Reviews
+# Storyboard Mockups
 
-Instructor design reviews, no regularly scheduled Blackboard Collaborate sessions or online office hours.
+## Instructor Group Meetings
 
-Zoom group meetings between 12:00pm and 4:00pm PT on Mar 30th, 31st and April 1st.
+No regularly scheduled Blackboard Collaborate sessions.
 
-### Suggested Readings  
+Zoom group meetings between 12:00pm and 4:00pm PT on TBD.
+
+## Suggested Readings  
 [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)  

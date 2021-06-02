@@ -120,4 +120,4 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries   
 
 ## :fas fa-calendar fa-fw: [Week 14 (Dec 6 - 12)](week-14)
-No class.
+Course wrap-up.

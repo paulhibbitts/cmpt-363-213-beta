@@ -3,9 +3,9 @@
 # What is the practice of multi-device interaction design?
 
 ## One-Minute Summaries and Questions  
-[Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/59869/assignments/583033) <span class='badge'>Thu Jan 21st 11:59pm PT</span>  
-[Five HCI Laws for User Experience Design](https://measuringu.com/hci-laws/) <span class='badge'>Thu Jan 21st 11:59pm PT</span>  
-[Touch Targets on Touchscreens](https://www.nngroup.com/articles/touch-target-size/) <span class='badge'>Thu Jan 21st 11:59pm PT</span>  
+[Interaction design: a guide for beginners](#) <span class='badge'>T BD</span>  
+[Five HCI Laws for User Experience Design](#) <span class='badge'> TBD</span>  
+[Touch Targets on Touchscreens](#) <span class='badge'> TBD</span>  
 
 ## Required Readings  
 [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
@@ -13,13 +13,13 @@
 [Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)  
 
 ## BlackBoard Collaborate Session Slides
-[Multi-device Interaction Design — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTwkUolIilNE-d5Ag6Lryol1CoL38J0gxs2hmORenxmxlDWNX8vAE1h_ibFaoOY3UnmjfwV9seDxUOd/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Multi-device Interaction Design — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTwkUolIilNE-d5Ag6Lryol1CoL38J0gxs2hmORenxmxlDWNX8vAE1h_ibFaoOY3UnmjfwV9seDxUOd/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTwkUolIilNE-d5Ag6Lryol1CoL38J0gxs2hmORenxmxlDWNX8vAE1h_ibFaoOY3UnmjfwV9seDxUOd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-[Week 2 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vR2tctRzLAnMwiuUkopOcUx8MN26BDJmpOob-rXMukANBMHmhVmmFU4Ssp2IrNpKbxxkhJN0biubGB_/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-02) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Week 2 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vR2tctRzLAnMwiuUkopOcUx8MN26BDJmpOob-rXMukANBMHmhVmmFU4Ssp2IrNpKbxxkhJN0biubGB_/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2tctRzLAnMwiuUkopOcUx8MN26BDJmpOob-rXMukANBMHmhVmmFU4Ssp2IrNpKbxxkhJN0biubGB_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><</div>
 
 ## Downloads
 [One-Page Touch Interaction Design Checklist](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Touch%20Interaction%20Checklist)  

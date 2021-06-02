@@ -1,6 +1,6 @@
 ![Sketchpad](assets/images/4328394839_e632f7c98d_b.jpg ':class=banner-image')
 
-# Draft Storyboard Mockups Meetings
+# Draft Storyboard Mockups
 
 ## Instructor Group Meetings
 No regularly scheduled Blackboard Collaborate sessions.

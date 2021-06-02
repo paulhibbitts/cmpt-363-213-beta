@@ -1,5 +1,5 @@
 ![SFU](assets/images/1406322240943.jpg ':class=banner-image')
 
-# Last Week of Term
+# Week 14 (Dec 6 - 12)
 
-No class.
+Course Wrap-up.
