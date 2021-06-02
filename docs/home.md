@@ -7,8 +7,8 @@
 
 ### [Live Online Sessions](#)  
 
-* [Course Introduction](#) [recorded] <span class='badge'> [Wed Sep 8 2:30pm PT](#)</span>
-* [Review and Discussion](#) [recorded] <span class='badge'> [Fri Sep 8 2:30pm PT](#)</span>
+* Course Introduction [[BB Collab]()] <span class='badge'> [Wed Sep 8 2:30pm PT](#)</span>
+* Review and Discussion [[BB Collab]()] <span class='badge'> [Fri Sep 8 2:30pm PT](#)</span>
 
 ### Required Readings & One-Minute Summaries
 
@@ -42,9 +42,9 @@ TBD
 
 ## Week 2 Live Online Sessions
 
-* [Mini-lectures and Activities](#) [recorded] <span class='badge'> [Mon Sep 13 2:30pm PT](#)</span>
-* [Get the Readings Done (GRD)](#) [not recorded] <span class='badge'> [Wed Sep 15 2:30pm PT](#)</span>
-* [Review and Discussion](#) [recorded] <span class='badge'> [Fri Sep 17 2:30pm PT](#)</span>
+* Mini-lectures and Activities [[BB Collab](#)] <span class='badge'> [Mon Sep 13 2:30pm PT](#)</span>
+* Get the Readings Done (GRD) [[Zoom](#), not recorded] <span class='badge'> [Wed Sep 15 2:30pm PT](#)</span>
+* Review and Discussion [[BB Collab](#)] <span class='badge'> [Fri Sep 17 2:30pm PT](#)</span>
 
 ## Week 2 Required Readings and One-Minute Summaries
 
