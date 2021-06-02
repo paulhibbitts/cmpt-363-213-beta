@@ -72,6 +72,7 @@
 [Sketching](week-08)
 [Software Design Processes](week-01)  
 [Storyboards](week-08)  
+[Systems Thinking](week-01)
 
 ### T
 [Task Analysis](week-01)  

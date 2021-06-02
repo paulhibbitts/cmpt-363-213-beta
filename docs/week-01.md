@@ -6,12 +6,13 @@
 
 [Defining usability](#) <span class='badge'> TBD </span>  
 [The UX Pyramid](#) <span class='badge'> TBD </span>  
-[A case for Systemic Design (11 minute read)](#) <span class='badge'> TBD </span>
+[A case for Systemic Design](#) <span class='badge'> TBD </span>
 
 ## Required Readings  
 
-[Defining usability (7 minute read)](https://paulhibbitts.github.io/docsify-cmpt-363-211-demo/#/)  
-[The UX Pyramid (13 minute read)](https://paulhibbitts.github.io/docsify-cmpt-363-211-demo/#/)  
+[Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
+[An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
+[A case for Systemic Design (11 minute read)](https://uxplanet.org/a-case-for-systemic-design-5a9465b870fa)  
 
 ## BlackBoard Collaborate Session Slides
 

@@ -5,10 +5,10 @@
 
 ## Course overview/What is usability, user experience design and systems thinking?
 
-### [Live Blackboard Collaborate Sessions](#)  
+### [Live Online Sessions](#)  
 
-* Course Introduction
-* Review and Discussion
+* [Course Introduction](#) [recorded]
+* [Review and Discussion](#) [recorded]
 
 ### Required Readings & One-Minute Summaries
 
@@ -40,11 +40,11 @@ TBD
 
 # Looking Ahead to the Second Week🔭
 
-## Week 2 Live Blackboard Collaborate Sessions
+## Week 2 Live Online Sessions
 
-* [Mini-lectures and Activities](#)
-* [Get the Readings Done (GRD)](#)
-* [Review and Discussion](#)
+* [Mini-lectures and Activities](#) [recorded]
+* [Get the Readings Done (GRD)](#) [not recorded]
+* [Review and Discussion](#) [recorded]
 
 ## Week 2 Required Readings and One-Minute Summaries
 

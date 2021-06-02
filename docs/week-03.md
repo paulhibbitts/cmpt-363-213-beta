@@ -6,12 +6,12 @@
 [Heuristic Inspection Assignment](#) <span class='badge'> TBD</span>  
 
 ## One-Minute Summaries and Questions  
-[How to Use Heuristic Evaluations to Improve Product Designs](#) <span class='badge'> TBD</span>  
+[Heuristic Evaluation: How to Conduct a Heuristic Evaluation](#) <span class='badge'> TBD</span>  
 [Severity Ratings for Usability Problems](#) <span class='badge'> TBD</span>  
 
 ## Required Readings  
-[How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  
-[Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
+[Heuristic Evaluation: How to Conduct a Heuristic Evaluation (10 minute read)](https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation)  
+[Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   
 
 ## BlackBoard Collaborate Session Slides
 [Usability Inspections — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vSnjRHSOVkJNEJXg7g9FbDwp_XdEus8w1aOc5x_FNluoU_yBme1uW5LZRRzlCg8ULAL3FWvtPcY5NA5/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)

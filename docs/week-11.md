@@ -8,10 +8,12 @@
 
 ## One-Minute Summaries and Questions  
 [The Principles of Design and Their Importance](#) <span class='badge'> TBD</span>  
+[Fundamentals of layout in user interface design (UI)](#)  <span class='badge'> TBD</span>  
 [Guide for designing better mobile apps typography](#)  <span class='badge'> TBD</span>  
 
 ## Required Readings  
 [The Principles of Design and Their Importance (9 minute read)](https://www.toptal.com/designers/ui/principles-of-design)  
+[Fundamentals of layout in user interface design (UI) (13 minute read)](https://uxdesign.cc/fundamentals-of-layout-in-interface-design-ui-3a9dba31f1)  
 [Guide for designing better mobile apps typography (6 minute read)](https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f)  
 
 ## BlackBoard Collaborate Session Slides

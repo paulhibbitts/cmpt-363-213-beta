@@ -7,11 +7,11 @@
 
 ## One-Minute Summaries and Questions  
 [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](#) <span class='badge'> TBD</span>  
-[Chapter 2: Getting to Know Users and Their Tasks](#) <span class='badge'> TBD</span>  
+[User Scenarios](#) <span class='badge'> TBD</span>  
 
 ## Required Readings  
 [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
-[Chapter 2: Getting to Know Users and Their Tasks (22 minute read)](https://courses.cs.washington.edu/courses/cse440/08au/readings_files/lewis-reiman/chap-2.v-1.html)  
+[User Scenarios (9 minute read)](https://www.interaction-design.org/literature/topics/user-scenarios)  
 
 ## BlackBoard Collaborate Session Slides
 [Prototyping — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQuJDnsvHGK20zuCNx_dW_z_d-IuD5YD9YxkdU3gwjNPFGcmH_jbhzh3kWIWyMx-HXnUjypjj6lrYSg/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
