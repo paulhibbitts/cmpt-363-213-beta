@@ -7,14 +7,14 @@
 
 ### [Live Online Sessions](#)  
 
-* [Course Introduction](#) [recorded]
-* [Review and Discussion](#) [recorded]
+* [Course Introduction](#) [recorded] <span class='badge'> [Wed Sep 8 2:30pm PT](#)</span>
+* [Review and Discussion](#) [recorded] <span class='badge'> [Fri Sep 8 2:30pm PT](#)</span>
 
 ### Required Readings & One-Minute Summaries
 
-* [Defining usability](#)
-* [An Introduction to User Experience Design](#)
-* [A case for Systemic Design](#)
+* [Defining usability](#) <span class='badge'> [Sun Sep 12 11:59pm PT](#)</span>
+* [An Introduction to User Experience Design](#) <span class='badge'> [Sun Sep 12 11:59pm PT](#)</span>
+* [A case for Systemic Design](#) <span class='badge'> [Sun Sep 12 11:59pm PT](#)</span>
 
 </div>
 
@@ -42,12 +42,12 @@ TBD
 
 ## Week 2 Live Online Sessions
 
-* [Mini-lectures and Activities](#) [recorded]
-* [Get the Readings Done (GRD)](#) [not recorded]
-* [Review and Discussion](#) [recorded]
+* [Mini-lectures and Activities](#) [recorded] <span class='badge'> [Mon Sep 13 2:30pm PT](#)</span>
+* [Get the Readings Done (GRD)](#) [not recorded] <span class='badge'> [Wed Sep 15 2:30pm PT](#)</span>
+* [Review and Discussion](#) [recorded] <span class='badge'> [Fri Sep 17 2:30pm PT](#)</span>
 
 ## Week 2 Required Readings and One-Minute Summaries
 
-* [Interaction design: a guide for beginners](#)  
-* [Five HCI Laws for User Experience Design](#)  
-* [Touch Targets on Touchscreens](#)   
+* [Interaction design: a guide for beginners](#) <span class='badge'> [Thu Sep 16 11:59pm PT](#)</span>  
+* [Five HCI Laws for User Experience Design](#) <span class='badge'> [Thu Sep 16 11:59pm PT](#)</span>  
+* [Touch Targets on Touchscreens](#) <span class='badge'> [Thu Sep 16 11:59pm PT](#)</span>   
