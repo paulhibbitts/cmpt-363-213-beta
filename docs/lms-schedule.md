@@ -69,7 +69,8 @@
 ## :fas fa-calendar fa-fw: [Week 8 (Oct 25 - 31)](#)
 **How to explore and describe possible design solutions?**       
 :fas fa-check fa-fw: [Group User Research Assignment due](#) <span class='badge'> [TBD](#)</span>  
-:fas fa-pen fa-fw: [Group Storyboard Mockups Assignment](#) <span class='badge'> [TBD](#)</span>  
+:fas fa-pen fa-fw: [Group Storyboard Mockups Assignment](#) <span class='badge'> [TBD](#)</span>
+:fas fa-folder fa-fw: [Team Member Evaluation](#) <span class='badge'> [TBD](#)</span>   
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Get the Readings Done (GRD) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [TBD](#)</span>  
@@ -96,7 +97,6 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 **What are the essentials of visual interface design?**  
 :fas fa-check fa-fw: [Group Storyboard Mockups due](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-pen fa-fw: [Individual Interactive Prototype](#) <span class='badge'> [TBD](#)</span>  
-:fas fa-folder fa-fw: [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Get the Readings Done (GRD) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [TBD](#)</span>  
