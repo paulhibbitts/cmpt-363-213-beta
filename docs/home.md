@@ -36,17 +36,19 @@ TBD
 </div>
 </div>
 
-
+![Multiple Mobile Devices](assets/images/16230041026_d438eb2482_k.jpg ':class=banner-image')
 
 # Looking Ahead to the Second Week🔭
 
-## Week 2 Live Online Sessions
+## What is the practice of multi-device interaction design?
+
+### Week 2 Live Online Sessions
 
 * Mini-lectures and Activities [[BB Collab](#)] <span class='badge'> [Mon Sep 13 2:30pm PT](#)</span>
 * Get the Readings Done (GRD) [[Zoom](#), not recorded] <span class='badge'> [Wed Sep 15 2:30pm PT](#)</span>
 * Review and Discussion [[BB Collab](#)] <span class='badge'> [Fri Sep 17 2:30pm PT](#)</span>
 
-## Week 2 Required Readings and One-Minute Summaries
+### Week 2 Required Readings and One-Minute Summaries
 
 * [Interaction design: a guide for beginners](#) <span class='badge'> [Thu Sep 16 11:59pm PT](#)</span>  
 * [Five HCI Laws for User Experience Design](#) <span class='badge'> [Thu Sep 16 11:59pm PT](#)</span>  
