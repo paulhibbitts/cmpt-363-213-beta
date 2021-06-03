@@ -20,3 +20,11 @@ body .markdown-section {
 .markdown-section a:hover {
   text-decoration: underline;
 }
+
+.markdown-section blockquote {
+  border-color: #54585A;
+}
+
+.markdown-section .alert {
+  border-color: #54585A;
+}
