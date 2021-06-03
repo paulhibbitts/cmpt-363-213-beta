@@ -22,9 +22,13 @@ body .markdown-section {
 }
 
 .markdown-section blockquote {
-  border-color: #54585A;
+  border-color: #757b7f;
 }
 
 .markdown-section .alert {
-  border-color: #54585A;
+  border-color: #757b7f;
+}
+
+.progress {
+  background-color: #757b7f;
 }
