@@ -20,3 +20,14 @@
 [![Class Discussions](https://icongr.am/fontawesome/folder.svg?size=16&color=6D6F71) Class Files](https://canvas.sfu.ca)
 [![Class Discussions](https://icongr.am/fontawesome/calculator.svg?size=16&color=6D6F71) Class Grades](https://canvas.sfu.ca)
 [![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71) Syllabus](https://canvas.sfu.ca)  
+
+<style>
+  :root {
+
+    --link-color: #6e7072;
+    --link-text-decoration: underline;
+    --link-text-decoration--hover: underline;
+
+  }
+
+</style>
