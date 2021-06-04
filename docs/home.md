@@ -18,7 +18,7 @@
 
 </div>
 
-# Online Office (Student) Hours 🏫
+# Online Office (Student) Hours 👨🏽‍💻👩🏽‍💻
 
 <div class="row">
 <div class="column">
