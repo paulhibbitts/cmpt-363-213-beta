@@ -24,8 +24,8 @@
 <style>
   :root {
 
-    --link-color: #6e7072;
-    --link-text-decoration: underline;
+    --link-color: #a6192e;
+    --link-text-decoration: none;
     --link-text-decoration--hover: underline;
 
   }
