@@ -9,6 +9,7 @@
 * [How to bridge the gap between the problem space and design space?](#week-7)
 * [How to explore and describe possible design solutions?](#week-8)
 * [How to plan, conduct, and summarize usability tests?](#week-9)
+* Instructor storyboard mockups group meetings (no weekly readings)
 * [What are the essentials of visual interface design?](#week-11)
 * [Special topic - visual interface design](#week-12)
 
