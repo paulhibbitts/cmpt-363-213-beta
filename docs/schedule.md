@@ -51,7 +51,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](#) <span class='badge'> [TBD](#)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 6 (Oct 11 - 17)](week-06)
-**Instructor user research plan group meetings, no regularly scheduled Blackboard Collaborate sessions**  
+**Instructor user research plan group meetings**   
 :fas fa-book fa-fw: [Asking the right questions during user research, interviews and testing (16 minute read)](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)  
 :fas fa-book fa-fw: [User Research When You Can’t Talk to Your Users (12 minute read)](https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 6](#) <span class='badge'> [TBD](#)</span>  
@@ -70,7 +70,7 @@
 **How to explore and describe possible design solutions?**       
 :fas fa-check fa-fw: [Group User Research Assignment due](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-pen fa-fw: [Group Storyboard Mockups Assignment](#) <span class='badge'> [TBD](#)</span>  
-:fas fa-folder fa-fw: [Team Member Evaluation](#) <span class='badge'> [TBD](#)</span> 
+:fas fa-folder fa-fw: [Team Member Evaluation](#) <span class='badge'> [TBD](#)</span>
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Get the Readings Done (GRD) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [TBD](#)</span>  
@@ -88,7 +88,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 9](#) <span class='badge'> [TBD](#)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 10 (Nov 8 - 14)](week-10)
-**Instructor design scenarios and storyboard mockups group meetings**  
+**Instructor storyboard mockups group meetings**  
 Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collaborate sessions  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries   
 :fas fa-book fa-fw: [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading, not required)  
