@@ -39,7 +39,7 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://xd.adobe.com/ideas/process/user-research/task-analysis-ux-with-example/">Task Analysis: Understanding User Goals and Behavior</a>
 
 **What Makes a Good Research Insight Great? (3 of 3 for Week 5)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.uxmatters.com/mt/archives/2017/06/what-makes-a-good-research-insight-great.php>What Makes a Good Research Insight Great?</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.uxmatters.com/mt/archives/2017/06/what-makes-a-good-research-insight-great.php">What Makes a Good Research Insight Great?</a>
 
 ## Week 6
 **Asking the right questions during user research, interviews and testing (1 of 2 for Week 6)**  
