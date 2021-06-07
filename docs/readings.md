@@ -1,6 +1,7 @@
 # All Readings
 
 ## Week 1
+### Course overview/What is usability, UX design and systems thinking?
 **Defining usability (1 of 3 for Week 1)**    
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/defining-usability-e7bf42e8abd0">Defining usability</a>
 
@@ -11,6 +12,7 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxplanet.org/a-case-for-systemic-design-5a9465b870fa">A case for Systemic Design</a>
 
 ## Week 2
+### What is the practice of multi-device interaction design?
 **Interaction design: a guide for beginners (1 of 3 for Week 2)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f">Interaction design: a guide for beginners</a>
 
@@ -21,6 +23,7 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/touch-target-size/">Touch Targets on Touchscreens</a>
 
 ## Week 3
+### How to conduct a user interface inspection?
 **Heuristic Evaluation: How to Conduct a Heuristic Evaluation (1 of 2 for Week 3)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation">Heuristic Evaluation: How to Conduct a Heuristic Evaluation</a>
 
@@ -28,10 +31,12 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/">Severity Ratings for Usability Problems</a>
 
 ## Week 4
+### Special topic - heuristic evaluations
 **Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total) (1 of 1 for Week 4)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA&v=gSm6bOw-KcQ">Design Heuristics Lecture with Scott Klemmer, a Video Playlist</a>
 
 ## Week 5
+### How to understand and communicate people's needs and behaviors?
 **A 5-Step Process For Conducting User Research (1 of 3 for Week 5)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/">A 5-Step Process For Conducting User Research</a>
 
@@ -42,6 +47,7 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.uxmatters.com/mt/archives/2017/06/what-makes-a-good-research-insight-great.php">What Makes a Good Research Insight Great?</a>
 
 ## Week 6
+### Instructor user research plan group meetings
 **Asking the right questions during user research, interviews and testing (1 of 2 for Week 6)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67">Asking the right questions during user research, interviews and testing</a>
 
@@ -49,6 +55,7 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/">User Research When You Can’t Talk to Your Users</a>
 
 ## Week 7
+### How to bridge the gap between the problem space and design space?
 **Leveraging Mental Models in Product Design (1 of 3 for Week 7)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d">Leveraging Mental Models in Product Design/a>
 
@@ -59,6 +66,7 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/">Not Just Pretty: Building Emotion Into Your Websites</a>
 
 ## Week 8
+### How to explore and describe possible design solutions?
 **The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (1 of 2 for Week 8)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860">The Right Tool For The Job: Picking The Best Prototyping Software For Your Project</a>
 
@@ -66,6 +74,7 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://courses.cs.washington.edu/courses/cse440/08au/readings_files/lewis-reiman/chap-2.v-1.html">Chapter 2: Getting to Know Users and Their Tasks</a>
 
 ## Week 9
+### How to plan, conduct, and summarize usability tests?
 **Usability Testing Guide (1 of 2 for Week 9)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://boxesandarrows.com/usability-testing-guide/">Usability Testing Guide</a>
 
@@ -73,6 +82,7 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/better-usability-tasks/">Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid</a>
 
 ## Week 11
+### What are the essentials of visual interface design?
 **The Principles of Design and Their Importance (1 of 2 for Week 11)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.toptal.com/designers/ui/principles-of-design">The Principles of Design and Their Importance</a>
 
@@ -80,6 +90,7 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f">Guide for designing better mobile apps typography</a>
 
 ## Week 12
+### Special topic - visual interface design
 **10 Principles for Color Usage in UI Design (1 of 2 for Week 12)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004">10 Principles for Color Usage in UI Design</a>
 
