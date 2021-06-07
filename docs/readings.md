@@ -1,5 +1,17 @@
 # All Readings
 
+* [Course overview/What is usability, UX design and systems thinking?](#week-1)
+* [What is the practice of multi-device interaction design?](#week-2)
+* [How to conduct a user interface inspection?](#week-3)
+* [Special topic - heuristic evaluations](#week-4)
+* [How to understand and communicate people's needs and behaviors?](#week-5)
+* [Instructor user research plan group meetings](#week-6)
+* [How to bridge the gap between the problem space and design space?](#week-7)
+* [How to explore and describe possible design solutions?](#week-8)
+* [How to plan, conduct, and summarize usability tests?](#week-9)
+* [What are the essentials of visual interface design?](#week-11)
+* [Special topic - visual interface design](#week-12)
+
 ## Week 1
 ### Course overview/What is usability, UX design and systems thinking?
 **Defining usability (1 of 3 for Week 1)**    
