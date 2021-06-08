@@ -3,7 +3,7 @@
 # How to conduct a user interface inspection?
 
 ## Assignments
-[Heuristic Inspection Assignment](#) <span class='badge'> TBD</span>  
+[Heuristic Inspection](#) <span class='badge'> TBD</span>  
 
 ## One-Minute Summaries and Questions  
 [Heuristic Evaluation: How to Conduct a Heuristic Evaluation](#) <span class='badge'> TBD</span>  

@@ -3,7 +3,7 @@
 # How to explore and communicate possible design solutions?
 
 ## Assignments
-[Heuristic Inspection Assignment](#) <span class='badge'> TBD</span>  
+[Storyboard Mockups](#) <span class='badge'> TBD</span>  
 
 ## One-Minute Summaries and Questions  
 [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](#) <span class='badge'> TBD</span>  

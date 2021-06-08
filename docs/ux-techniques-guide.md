@@ -28,6 +28,34 @@
 </details>
 
 <details>
+  <summary>How to Conduct a User Interface Inspection? </summary>
+
+[Cognitive Walkthrough](ux-techniques-guide/07.how-to-conduct-a-user-interface-inspection/cognitive-walkthroughs.md ':include')
+
+[Heuristic Evaluations](ux-techniques-guide/07.how-to-conduct-a-user-interface-inspection/heuristic-evaluations.md ':include')
+
+</details>
+
+<details>
+  <summary>How to Plan, Conduct, and Summarize Usability Tests?</summary>
+
+[Rapid Iterative Testing and Evaluation (RITE) Method](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/rapid-iterative-testing-and-evaluation-method.md ':include')
+
+[Usability Test Reports](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-reports.md ':include')
+
+[Usability Test Surveys](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys.md ':include')
+
+[Usability Test Tasks](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks.md ':include')
+
+[Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal.md ':include')
+
+[Informal (Guerilla) Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-informal.md ':include')
+
+[Remote Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-remote.md ':include')
+
+</details>
+
+<details>
   <summary>How to Understand and Communicate People's Needs and Behaviors?</summary>
 
 [Affinity Diagrams](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/affinity-diagrams.md ':include')
@@ -177,34 +205,6 @@
 [Visual Design Principles (CRAP)](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/visual-design-principles.md ':include')
 
 [Visual Interface Design](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/visual-interface-design.md ':include')
-
-</details>
-
-<details>
-  <summary>How to Conduct a User Interface Inspection? </summary>
-
-[Cognitive Walkthrough](ux-techniques-guide/07.how-to-conduct-a-user-interface-inspection/cognitive-walkthroughs.md ':include')
-
-[Heuristic Evaluations](ux-techniques-guide/07.how-to-conduct-a-user-interface-inspection/heuristic-evaluations.md ':include')
-
-</details>
-
-<details>
-  <summary>How to Plan, Conduct, and Summarize Usability Tests?</summary>
-
-[Rapid Iterative Testing and Evaluation (RITE) Method](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/rapid-iterative-testing-and-evaluation-method.md ':include')
-
-[Usability Test Reports](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-reports.md ':include')
-
-[Usability Test Surveys](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys.md ':include')
-
-[Usability Test Tasks](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks.md ':include')
-
-[Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal.md ':include')
-
-[Informal (Guerilla) Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-informal.md ':include')
-
-[Remote Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-remote.md ':include')
 
 </details>
 

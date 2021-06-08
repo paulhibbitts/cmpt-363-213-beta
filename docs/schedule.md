@@ -11,6 +11,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 2 (Sep 13 - 19)](week-02)
 **What is the practice of multi-device interaction design?**  
+:fas fa-comments fa-fw: Group Project Proposal <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Get the Readings Done (GRD) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [TBD](#)</span>  
@@ -117,7 +118,8 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 ## :fas fa-calendar fa-fw: [Week 13 (Nov 29 - Dec 5)](week-13)
 **Course wrap-up**  
 :fas fa-check fa-fw: [Individual Interactive Prototype due](#) <span class='badge'> [TBD](#)</span>  
+:fas fa-desktop fa-fw: Course Wrap-up <span class='badge'> [TBD](#)</span>  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries   
 
 ## :fas fa-calendar fa-fw: [Week 14 (Dec 6 - 12)](week-14)
-Course wrap-up.
+No class scheduled.

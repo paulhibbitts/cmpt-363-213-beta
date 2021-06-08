@@ -2,9 +2,6 @@
 
 # How to plan, conduct, and summarize usability tests?
 
-## Assignments
-[Interactive Prototype](#) <span class='badge'> TBD</span>  
-
 ## One-Minute Summaries and Questions  
 [Usability Testing Guide](#) <span class='badge'> TBD</span>  
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](#) <span class='badge'> TBD</span>  

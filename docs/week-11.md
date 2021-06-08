@@ -3,7 +3,6 @@
 # What are the essentials of visual interface design?
 
 ## Assignments
-[Design Scenarios and Storyboard Mockups](#) <span class='badge'> TBD</span>  
 [Interactive Prototype](#) <span class='badge'> TBD</span>
 
 ## One-Minute Summaries and Questions  

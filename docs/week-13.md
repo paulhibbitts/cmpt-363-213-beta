@@ -1,12 +1,5 @@
-![Prototype Drawings](assets/images/amelie-mourichon-YHNOwnrDzjY-unsplash.jpg ':class=banner-image')
+![SFU](assets/images/1406322240943.jpg ':class=banner-image')
 
-# Storyboard Mockups
+# Week 13 (Nov 29 - Dec 5)
 
-## Instructor Group Meetings
-
-No regularly scheduled Blackboard Collaborate sessions.
-
-Zoom group meetings between 12:00pm and 4:00pm PT on TBD.
-
-## Suggested Readings  
-[How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)  
+Course wrap-up.
