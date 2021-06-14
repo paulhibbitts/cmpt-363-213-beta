@@ -7,8 +7,8 @@
 
 ## One-Minute Summaries and Questions  
 [A 5-Step Process For Conducting User Research](#) <span class='badge'> TBD</span>  
-[Task Analysis: Understanding User Goals and Behavior](#) <span class='badge'> TBD</span>  
-[What Makes a Good Research Insight Great?](#) <span class='badge'> TBD</span>  
+[How to Leverage Thematic Analysis for Better UX](#) <span class='badge'> TBD</span>  
+[Replacing The User Story With The Job Story](#) <span class='badge'> TBD</span>  
 
 ## Required Readings  
 [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
