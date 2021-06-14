@@ -52,11 +52,11 @@
 **A 5-Step Process For Conducting User Research (1 of 3 for Week 5)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/">A 5-Step Process For Conducting User Research</a>
 
-**Task Analysis: Understanding User Goals and Behavior (2 of 3 for Week 5)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://xd.adobe.com/ideas/process/user-research/task-analysis-ux-with-example/">Task Analysis: Understanding User Goals and Behavior</a>
+**How to Leverage Thematic Analysis for Better UX (2 of 3 for Week 5)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux">How to Leverage Thematic Analysis for Better UX</a>
 
-**What Makes a Good Research Insight Great? (3 of 3 for Week 5)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.uxmatters.com/mt/archives/2017/06/what-makes-a-good-research-insight-great.php">What Makes a Good Research Insight Great?</a>
+**Replacing The User Story With The Job Story (3 of 3 for Week 5)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27">Replacing The User Story With The Job Story</a>
 
 ## Week 6
 ### Instructor user research plan group meetings
