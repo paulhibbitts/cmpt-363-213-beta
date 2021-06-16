@@ -3,7 +3,7 @@
 # What are the essentials of visual interface design?
 
 ## Assignments
-[Interactive Prototype](#) <span class='badge'> TBD</span>
+[Individual Interactive Prototype](#) <span class='badge'> TBD</span>
 
 ## One-Minute Summaries and Questions  
 [The Principles of Design and Their Importance](#) <span class='badge'> TBD</span>  

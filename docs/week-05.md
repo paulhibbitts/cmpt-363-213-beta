@@ -3,7 +3,7 @@
 # How to understand and communicate people's needs and behaviours?
 
 ## Assignments
-[Storyboard Mockups](#) <span class='badge'> TBD</span>
+[Group User Research](#) <span class='badge'> TBD</span>
 
 ## One-Minute Summaries and Questions  
 [A 5-Step Process For Conducting User Research](#) <span class='badge'> TBD</span>  
