@@ -21,7 +21,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 3 (Sep 20 - 26)](week-03)
 **How to conduct a user interface inspection?**  
-:fas fa-comments fa-fw: Group Project Proposal <span class='badge'> [TBD](#)</span>
+:fas fa-comments fa-fw: Group Project Proposal <span class='badge'> [TBD](#)</span>  
 :fas fa-pen fa-fw: [Individual Heuristic Inspection Assignment](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Get the Readings Done (GRD) <span class='badge'> [TBD](#)</span>  
