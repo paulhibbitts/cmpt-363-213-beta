@@ -40,4 +40,6 @@
 
 [Task Analysis](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/task-analysis.md ':include')
 
+[Thematic Analysis](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/thematic-analysis.md ':include')
+
 [User Research](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research.md ':include')

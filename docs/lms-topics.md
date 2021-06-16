@@ -68,7 +68,7 @@
 
 ### S
 [Scenario-based Design (and Task-Centered Design)](week-08)  
-[Scenarios (also called Task Examples)](week-08)  
+[Scenarios (also called User Scenarios)](week-08)  
 [Sketching](week-08)
 [Software Design Processes](week-01)  
 [Storyboards](week-08)  
@@ -86,6 +86,7 @@
 [User Experience Design](week-01)  
 [User Research](week-05)  
 [User Research Analysis](week-05)  
+[User Scenarios (also called Scenarios)](week-08)  
 [User Stories](week-05)  
 [UX Goals](week-01)  
 

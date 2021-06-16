@@ -36,6 +36,8 @@
 
 [Design Ethics](ux-techniques-guide/01.what-is-usability-and-user-experience-design/design-ethics.md ':include')
 
+[Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')
+
 [Problem Statements](ux-techniques-guide/03.what-is-the-practice-of-multidevice-interaction-design/problem-statements.md ':include')
 
 [Scenario-based Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/scenario-based-design.md ':include')
