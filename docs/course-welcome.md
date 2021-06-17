@@ -1,4 +1,4 @@
-![SFU](assets/images/1406322240943.jpg ':class=banner-image')
+![SFU](assets/images/1463773966245.jpg ':class=banner-image')
 
 # Welcome to CMPT-363 User Interface Design, Fall 2021 👋🏼
 
