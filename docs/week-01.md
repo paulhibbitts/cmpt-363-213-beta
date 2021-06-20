@@ -12,7 +12,7 @@
 
 [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
-[Shifting Our Team Goals to be UX Outcomes (7minute read)](https://articles.uie.com/shifting-our-team-goals-to-be-ux-outcomes/)  
+[Why UX Outcomes Make Better Goals Than Business Outcomes (5 minute read)](https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes/)  
 
 ## BlackBoard Collaborate Session Slides
 
