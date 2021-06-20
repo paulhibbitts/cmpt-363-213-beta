@@ -45,7 +45,7 @@ TBD
 ### Week 2 Live Online Sessions
 
 * Mini-lectures and Activities [[BB Collab](#)] <span class='badge'> [Mon Sep 13 2:30pm PT](#)</span>
-* Get the Readings Done (GRD) [[Zoom](#), not recorded] <span class='badge'> [Wed Sep 15 2:30pm PT](#)</span>
+* Get the Readings Done (GRD) [[TBD](#), not recorded] <span class='badge'> [Wed Sep 15 2:30pm PT](#)</span>
 * Review and Discussion [[BB Collab](#)] <span class='badge'> [Fri Sep 17 2:30pm PT](#)</span>
 
 ### Week 2 Required Readings and One-Minute Summaries
