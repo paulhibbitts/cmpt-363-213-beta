@@ -1,6 +1,6 @@
 ![UX - User Experience](assets/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
-# Course overview/What is usability, UX design and systems thinking?
+# Course overview/What is usabilityand user experience design?
 
 ## One-Minute Summaries and Questions  
 

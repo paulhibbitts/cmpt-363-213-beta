@@ -1,6 +1,6 @@
 # All Readings
 
-* [What is usability, UX design and systems thinking? (Week 1)](#week-1)
+* [What is usabilityand user experience design? (Week 1)](#week-1)
 * [What is the practice of multi-device interaction design? (Week 2)](#week-2)
 * [How to conduct a user interface inspection? (Week 3)](#week-3)
 * [Special topic - heuristic evaluations (Week 4)](#week-4)
@@ -13,7 +13,7 @@
 * [Special topic - visual interface design (Week 12)](#week-12)
 
 ## Week 1
-### What is usability, UX design and systems thinking?
+### What is usabilityand user experience design?
 **Defining usability (1 of 3 for Week 1)**    
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/defining-usability-e7bf42e8abd0">Defining usability</a>
 
