@@ -13,7 +13,7 @@
 
 [Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')
 
-[Outcome](ux-techniques-guide/01.what-is-usability-and-user-experience-design/outcome.md ':include')
+[Outcomes](ux-techniques-guide/01.what-is-usability-and-user-experience-design/outcomes.md ':include')
 
 [Problem Statements](ux-techniques-guide/03.what-is-the-practice-of-multidevice-interaction-design/problem-statements.md ':include')
 

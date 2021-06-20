@@ -38,12 +38,12 @@
 
 [Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')
 
-[Problem Statements](ux-techniques-guide/03.what-is-the-practice-of-multidevice-interaction-design/problem-statements.md ':include')
+[Outcomes](ux-techniques-guide/01.what-is-usability-and-user-experience-design/outcomes.md ':include')
 
-[Scenario-based Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/scenario-based-design.md ':include')
+[Problem Statements](ux-techniques-guide/03.what-is-the-practice-of-multidevice-interaction-design/problem-statements.md ':include')
 
 [Usability](ux-techniques-guide/01.what-is-usability-and-user-experience-design/usability.md ':include')
 
 [User Experience Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/user-experience-design.md ':include')
 
-[User Interface Design ](ux-techniques-guide/01.what-is-usability-and-user-experience-design/user-interface-design.md ':include')
+[User Interface Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/user-interface-design.md ':include')

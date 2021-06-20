@@ -6,4 +6,4 @@ _Conceptual models involve three views of a system; the user's mental model, the
 *   [IBM Design: The three models - User](http://www-01.ibm.com/software/ucd/designconcepts/threemodels/user.html)  
 *   [Idioms vs Metaphors in the digital world](https://uxplanet.org/idioms-vs-metaphors-in-the-digital-world-37e8f038b7e6)  
 *   [The 6 design principles of Don Norman](https://laptrinhx.com/the-6-design-principles-of-don-norman-470095013/)
-*   [The Secret to Designing an Intuitive UX: Match the Mental Model to the Conceptual Model](http://www.inspireux.com/2010/04/16/secret-designing-intuitive-user-experience/)
+*   [The Secret to Designing an Intuitive UX Match the Mental Model to the Conceptual Model](https://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience)
