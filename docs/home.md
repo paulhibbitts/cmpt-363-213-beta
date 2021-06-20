@@ -3,7 +3,7 @@
 
 # What’s Happening First Week 💫
 
-## Course overview/What is usabilityand user experience design?
+## Course overview/What is usability and user experience design?
 
 ### [Live Online Sessions](#)  
 
