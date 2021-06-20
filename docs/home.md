@@ -7,8 +7,8 @@
 
 ### [Live Online Sessions](#)  
 
-* Course Introduction [[BB Collab]()] <span class='badge'> [Wed Sep 8 2:30pm PT](#)</span>
-* Mini-lectures and Activities [[BB Collab]()] <span class='badge'> [Fri Sep 8 2:30pm PT](#)</span>
+* Course Introduction [[BB Collab]()] <span class='badge'> [TBD](#)</span>
+* Mini-lectures and Activities [[BB Collab]()] <span class='badge'> [TBD](#)</span>
 
 ### Required Readings & One-Minute Summaries
 
