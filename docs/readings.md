@@ -20,8 +20,8 @@
 **An Introduction to User Experience Design (2 of 3 for Week 1)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://marvelapp.com/blog/introduction-user-experience-design/">An Introduction to User Experience Design</a>
 
-**A case for Systemic Design (3 of 3 for Week 1)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxplanet.org/a-case-for-systemic-design-5a9465b870fa">A case for Systemic Design</a>
+**Shifting Our Team Goals to be UX Outcomes (3 of 3 for Week 1)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://articles.uie.com/shifting-our-team-goals-to-be-ux-outcomes/">Shifting Our Team Goals to be UX Outcomes</a>
 
 ## Week 2
 ### What is the practice of multi-device interaction design?

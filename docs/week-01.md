@@ -12,7 +12,7 @@
 
 [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
-[A case for Systemic Design (11 minute read)](https://uxplanet.org/a-case-for-systemic-design-5a9465b870fa)  
+[Shifting Our Team Goals to be UX Outcomes (7minute read)](https://articles.uie.com/shifting-our-team-goals-to-be-ux-outcomes/)  
 
 ## BlackBoard Collaborate Session Slides
 

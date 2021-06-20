@@ -14,7 +14,7 @@
 
 * [Defining usability](#) <span class='badge'> [Sun Sep 12 11:59pm PT](#)</span>
 * [An Introduction to User Experience Design](#) <span class='badge'> [Sun Sep 12 11:59pm PT](#)</span>
-* [A case for Systemic Design](#) <span class='badge'> [Sun Sep 12 11:59pm PT](#)</span>
+* [Shifting Our Team Goals to be UX Outcomes](#) <span class='badge'> [Sun Sep 12 11:59pm PT](#)</span>
 
 </div>
 
