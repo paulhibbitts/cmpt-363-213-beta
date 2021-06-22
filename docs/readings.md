@@ -106,5 +106,5 @@
 **10 Principles for Color Usage in UI Design (1 of 2 for Week 12)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004">10 Principles for Color Usage in UI Design</a>
 
-**Accessibility for Visual Design (2 of 2 for Week 12)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.uxbooth.com/articles/accessibility-visual-design/">Accessibility for Visual Design</a>
+**7 Things Every Designer Needs to Know about Accessibility (2 of 2 for Week 12)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b">7 Things Every Designer Needs to Know about Accessibility</a>

@@ -6,7 +6,7 @@
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [TBD](#)</span>  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 :fas fa-book fa-fw: [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
-:fas fa-book fa-fw: [A case for Systemic Design (11 minute read)](https://uxplanet.org/a-case-for-systemic-design-5a9465b870fa)  
+:fas fa-book fa-fw: [Why UX Outcomes Make Better Goals Than Business Outcomes (5 minute read)](https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 1](#) <span class='badge'> [TBD](#)</span>   
 
 ## :fas fa-calendar fa-fw: [Week 2 (Sep 13 - 19)](#)
@@ -112,7 +112,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-desktop fa-fw: Get the Readings Done (GRD) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [TBD](#)</span>  
 :fas fa-book fa-fw: [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
-:fas fa-book fa-fw: [Accessibility for Visual Design (9 minute read)](https://www.uxbooth.com/articles/accessibility-visual-design)  
+:fas fa-book fa-fw: [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 12](#) <span class='badge'> [TBD](#)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 13 (Nov 29 - Dec 5)](#)
