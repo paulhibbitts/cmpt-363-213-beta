@@ -47,8 +47,8 @@
 :fas fa-desktop fa-fw: Get the Readings Done (GRD) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [TBD](#)</span>  
 :fas fa-book fa-fw: [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
-:fas fa-book fa-fw: [Task Analysis: Understanding User Goals and Behavior (9 minute read)](https://xd.adobe.com/ideas/process/user-research/task-analysis-ux-with-example/)  
-:fas fa-book fa-fw: [What Makes a Good Research Insight Great? (11 minute read)](https://www.uxmatters.com/mt/archives/2017/06/what-makes-a-good-research-insight-great.php)  
+:fas fa-book fa-fw: [How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
+:fas fa-book fa-fw: [Replacing The User Story With The Job Story (10 minute read)](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](#) <span class='badge'> [TBD](#)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 6 (Oct 11 - 17)](week-06)
