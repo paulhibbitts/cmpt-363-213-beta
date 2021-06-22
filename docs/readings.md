@@ -82,8 +82,8 @@
 **The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (1 of 2 for Week 8)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860">The Right Tool For The Job: Picking The Best Prototyping Software For Your Project</a>
 
-**Chapter 2: Getting to Know Users and Their Tasks (2 of 2 for Week 8)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://courses.cs.washington.edu/courses/cse440/08au/readings_files/lewis-reiman/chap-2.v-1.html">Chapter 2: Getting to Know Users and Their Tasks</a>
+**User Scenarios (2 of 2 for Week 8)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.interaction-design.org/literature/topics/user-scenarios">User Scenarios</a>
 
 ## Week 9
 ### How to plan, conduct, and summarize usability tests?
@@ -98,7 +98,10 @@
 **The Principles of Design and Their Importance (1 of 2 for Week 11)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.toptal.com/designers/ui/principles-of-design">The Principles of Design and Their Importance</a>
 
-**Guide for designing better mobile apps typography (2 of 2 for Week 11)**  
+**Fundamentals of layout in user interface design (UI) (2 of 3 for Week 11)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/fundamentals-of-layout-in-interface-design-ui-3a9dba31f1">Fundamentals of layout in user interface design (UI)</a>
+
+**Guide for designing better mobile apps typography (3 of 3 for Week 11)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f">Guide for designing better mobile apps typography</a>
 
 ## Week 12
