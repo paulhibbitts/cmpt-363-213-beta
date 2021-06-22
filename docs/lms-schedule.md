@@ -53,7 +53,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 6 (Oct 11 - 17)](#)
 **Instructor user research plan group meetings**  
-:fas fa-book fa-fw: [Asking the right questions during user research, interviews and testing (16 minute read)](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)  
+:fas fa-book fa-fw: [User Interviews: How, When, and Why to Conduct Them (13 minute read)](https://www.nngroup.com/articles/user-interviews/)  
 :fas fa-book fa-fw: [User Research When You Can’t Talk to Your Users (12 minute read)](https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 6](#) <span class='badge'> [TBD](#)</span>  
 

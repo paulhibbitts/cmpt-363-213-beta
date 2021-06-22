@@ -60,8 +60,8 @@
 
 ## Week 6
 ### Instructor user research plan group meetings
-**Asking the right questions during user research, interviews and testing (1 of 2 for Week 6)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67">Asking the right questions during user research, interviews and testing</a>
+**User Interviews: How, When, and Why to Conduct Them (1 of 2 for Week 6)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/user-interviews/">User Interviews: How, When, and Why to Conduct Them</a>
 
 **User Research When You Can’t Talk to Your Users (2 of 2 for Week 6)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/">User Research When You Can’t Talk to Your Users</a>
