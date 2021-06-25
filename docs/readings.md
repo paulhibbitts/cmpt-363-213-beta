@@ -1,19 +1,19 @@
 # All Readings
 
-* [What is usabilityand user experience design? (Week 1)](#week-1)
-* [What is the practice of multi-device interaction design? (Week 2)](#week-2)
-* [How to conduct a user interface inspection? (Week 3)](#week-3)
-* [Special topic - heuristic evaluations (Week 4)](#week-4)
-* [How to understand and communicate people's needs and behaviors? (Week 5)](#week-5)
-* [Instructor user research plan group meetings (Week 6)](#week-6)
-* [How to bridge the gap between the problem space and design space? (Week 7)](#week-7)
-* [How to explore and describe possible design solutions? (Week 8)](#week-8)
-* [How to plan, conduct, and summarize usability tests? (Week 9)](#week-9)
-* [What are the essentials of visual interface design? (Week 11)](#week-11)
-* [Special topic - visual interface design (Week 12)](#week-12)
+* [What is usability and user experience design? (Week 2)](#week-2)
+* [What is the practice of multi-device interaction design? (Week 3)](#week-3)
+* [How to conduct a user interface inspection? (Week 4)](#week-4)
+* [Special topic - heuristic evaluations (Week 5)](#week-5)
+* [How to understand and communicate people's needs and behaviors? (Week 6)](#week-6)
+* [Instructor user research plan group meetings (Week 7)](#week-7)
+* [How to bridge the gap between the problem space and design space? (Week 8)](#week-8)
+* [How to explore and describe possible design solutions? (Week 9)](#week-9)
+* [How to plan, conduct, and summarize usability tests? (Week 10)](#week-10)
+* [What are the essentials of visual interface design? (Week 12)](#week-12)
+* [Special topic - visual interface design (Week 13)](#week-13)
 
 ## Week 1
-### What is usabilityand user experience design?
+### What is usability and user experience design?
 **Defining usability (1 of 3 for Week 1)**    
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/defining-usability-e7bf42e8abd0">Defining usability</a>
 

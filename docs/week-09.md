@@ -1,35 +1,43 @@
-![Usability Test](assets/images/4642289926_7964e733d1_b.jpg ':class=banner-image')
+![Screen Sketches](assets/images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
 
-# How to plan, conduct, and summarize usability tests?
+# How to explore and communicate possible design solutions?
 
-## One-Minute Summaries and Questions  
-[Usability Testing Guide](#) <span class='badge'> TBD</span>  
-[Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](#) <span class='badge'> TBD</span>  
+## Assignments
+[Group Storyboard Mockups](#) <span class='badge'> TBD</span>  
+
+## One-minute Summaries & Questions
+[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](#) <span class='badge'> TBD</span>  
+[User Scenarios](#) <span class='badge'> TBD</span>  
 
 ## Required Readings  
-[Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
-[Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
+[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
+[User Scenarios (9 minute read)](https://www.interaction-design.org/literature/topics/user-scenarios)  
 
 ## BlackBoard Collaborate Session Slides
-[Usability Testing — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTKpy7bKKyy7ogZr2zxifVZFWyeCsKBRIwaVrq90XwTQICuQWTvBdtHj_CUKJ_itZHkH9qCJDS4zUsa/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Prototyping — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQuJDnsvHGK20zuCNx_dW_z_d-IuD5YD9YxkdU3gwjNPFGcmH_jbhzh3kWIWyMx-HXnUjypjj6lrYSg/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-[Week 13 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vSHZlbOQfMzmlBQ4X3w2p4E6MT-gBzFRNc81oYL4m2q5-qRG3VKHSx15ffuSZTMdLG7xrIWnLDM86Pa/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Week 9 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vR3SMhBc4WIQpoz9pFc248Amrse3gCk7gS5HIXs1TGi1ZBDglOuQlFmqeDai-_S3c991gxKCXhHp9Wf/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
+## Downloads
+[Sketching Templates](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Sketching%20Templates)  
 
 ## Supplemental Materials  
-[Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=1UCDUOB_aS8)  
+[UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/MwidSAlbEB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/1UCDUOB_aS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+Balsamiq Wireframes for Google Drive Overview   
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/l_jJMMY_QMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Supplemental Readings  
 
-[Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal.md ':include')
+[Brainstorming](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/brainstorming.md ':include')
 
-[Usability Test Surveys](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys.md ':include')
+[Prototyping](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/prototyping.md ':include')
 
-[Usability Test Tasks](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks.md ':include')
+[Scenarios](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/scenarios.md ':include')
 
-[Remote Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-remote.md ':include')
+[Storyboards](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')

@@ -3,18 +3,14 @@
 
 # What’s Happening First Week 💫
 
-## Course overview/What is usability and user experience design?
+## Course overview
 
 ### [Live Online Sessions](#)  
 
-* Course Introduction [[BB Collab]()] <span class='badge'> [TBD](#)</span>
-* Mini-lectures and Activities [[BB Collab]()] <span class='badge'> [TBD](#)</span>
+* Course Introduction [[BB Collab]()] <span class='badge'> [Thu Sep 9 2:30pm PT](#)</span>
 
-### Required Readings & One-Minute Summaries
-
-* [Defining usability](#) <span class='badge'> [Sun Sep 12 11:59pm PT](#)</span>
-* [An Introduction to User Experience Design](#) <span class='badge'> [Sun Sep 12 11:59pm PT](#)</span>
-* [Why UX Outcomes Make Better Goals Than Business Outcomes](#) <span class='badge'> [Sun Sep 12 11:59pm PT](#)</span>
+### Suggested Readings
+[Course Syllabus](https://canvas.sfu.ca)
 
 </div>
 
@@ -25,31 +21,31 @@
 
 Chat 1-on-1 Office Hours:  
 Contact Paul here or [CSSS Discord](https://t.co/GZQUc6iVjS):  
-TBD
+Wednesdays 12:00-12:30pm PT  
+Fridays 12:00-12:30pm PT  
 
 </div>
 <div class="column">
 
 Zoom 1-on-1 Office Hours:  
-TBD
+[Wednesdays 12:30-1:30pm PT](#)
 
 </div>
 </div>
 
-![Multiple Mobile Devices](assets/images/16230041026_d438eb2482_k.jpg ':class=banner-image')
+![UX](assets/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
 # Looking Ahead to the Second Week🔭
 
-## What is the practice of multi-device interaction design?
+## What is usability and user experience design?
 
 ### Week 2 Live Online Sessions
 
-* Mini-lectures and Activities [[BB Collab](#)] <span class='badge'> [Mon Sep 13 2:30pm PT](#)</span>
-* Get the Readings Done (GRD) [[TBD](#), not recorded] <span class='badge'> [Wed Sep 15 2:30pm PT](#)</span>
-* Review and Discussion [[BB Collab](#)] <span class='badge'> [Fri Sep 17 2:30pm PT](#)</span>
+* Mini-lectures and Activities [[BB Collab](#)] <span class='badge'> [Tue Sep 14 2:30pm PT](#)</span>
+* Review and Discussion [[BB Collab](#)] <span class='badge'> [Thu Sep 16 2:30pm PT](#)</span>
 
 ### Week 2 Required Readings and One-Minute Summaries
 
-* [Interaction design: a guide for beginners](#) <span class='badge'> [Thu Sep 16 11:59pm PT](#)</span>  
-* [Five HCI Laws for User Experience Design](#) <span class='badge'> [Thu Sep 16 11:59pm PT](#)</span>  
-* [Touch Targets on Touchscreens](#) <span class='badge'> [Thu Sep 16 11:59pm PT](#)</span>   
+* [Defining usability](#) <span class='badge'> [Wed Sep 15 11:59pm PT](#)</span>
+* [An Introduction to User Experience Design](#) <span class='badge'> [Wed Sep 15 11:59pm PT](#)</span>
+* [Why UX Outcomes Make Better Goals Than Business Outcomes](#) <span class='badge'> [Wed Sep 15 11:59pm PT](#)</span>

@@ -1,22 +1,33 @@
-![Abstract Image](assets/images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
+![Complex User Interface](assets/images/2760207306_21ac555261_b.jpg ':class=banner-image')
 
-# Special topic — heuristic evaluations
+# How to conduct a user interface inspection?
 
-## One-Minute Summaries and Questions  
-[Design Heuristics Lecture with Scott Klemmer, a Video Playlist](#) <span class='badge'> TBD</span>
+## Assignments
+[Individual Heuristic Inspection](#) <span class='badge'> TBD</span>  
+
+## One-minute Summaries & Questions
+[Heuristic Evaluation: How to Conduct a Heuristic Evaluation](#) <span class='badge'> TBD</span>  
+[Severity Ratings for Usability Problems](#) <span class='badge'> TBD</span>  
 
 ## Required Readings  
-[Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
+[Heuristic Evaluation: How to Conduct a Heuristic Evaluation (10 minute read)](https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation)  
+[Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   
 
 ## BlackBoard Collaborate Session Slides
-[Special Topic — Heuristic Evaluations](https://docs.google.com/presentation/d/e/2PACX-1vRFDnupIGmRgZuyRiGohlpEmSewfReZangkCzYDeFb9KPg7yHS7C3k6hjlFdvfIwjFrMbWnEEZ_i2dh/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Usability Inspections — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vSnjRHSOVkJNEJXg7g9FbDwp_XdEus8w1aOc5x_FNluoU_yBme1uW5LZRRzlCg8ULAL3FWvtPcY5NA5/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-[Week 4 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vTwqmEF3VIZvlKu4C7byqFDBs_x3MJi0L_3xao1WweqHg7-8Coi06NBKO-g057Vlv0c9uu4I_reWQoU/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Week 4 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vTtuoW_jgUevUlfaQhk2sCiE39Iqq5B1nf9KJMNgeYMNdu5tl6MoONo1ZeFJSgwdqI3KgtNgBZwrtzI/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-## Nielsen’s 10 Heuristics, as updated by Scott Klemmer
-![Nielsen's Heuristics, as revised by Scott Klemmer](https://images.squarespace-cdn.com/content/v1/546aeb13e4b06c7939161700/1496978769820-M1463IA9HEPB2VGXST1J/ke17ZwdGBToddI8pDm48kFl28Fv_rBK6U19lUwXhUe5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxa0tF9mSBjJriQQo24NOBjwQexw4zSBSEILIX37zXwGQYoF0k1-7C-e0ggxJBzRnU/image-asset.jpeg?format=700w)  
-Image source: [UX And Design Thinking: 5 Tips For Changing Your Company Mindset](https://www.dreamerux.com/articles/yn7fwsfl6r76n8f88msdgchsa6mny5)
+## Supplemental Materials  
+[The 10 Usability Heuristics](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I)  
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Supplemental Readings
+
+[Cognitive Walkthrough](ux-techniques-guide/07.how-to-conduct-a-user-interface-inspection/cognitive-walkthroughs.md ':include')
+
+[Heuristic Evaluations](ux-techniques-guide/07.how-to-conduct-a-user-interface-inspection/heuristic-evaluations.md ':include')

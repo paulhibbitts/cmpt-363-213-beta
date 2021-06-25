@@ -17,9 +17,9 @@
 [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=6D6F71) Calendar](https://canvas.sfu.ca)
 [![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=6D6F71) Assignments](https://canvas.sfu.ca)
 [![Class Discussions](https://icongr.am/fontawesome/comments-o.svg?size=16&color=6D6F71) Class Discussions](https://canvas.sfu.ca)
-[![Class Discussions](https://icongr.am/fontawesome/folder.svg?size=16&color=6D6F71) Class Files](https://canvas.sfu.ca)
+[![Class Files](https://icongr.am/fontawesome/folder.svg?size=16&color=6D6F71) Class Files](https://canvas.sfu.ca)
 [![Class Discussions](https://icongr.am/fontawesome/calculator.svg?size=16&color=6D6F71) Class Grades](https://canvas.sfu.ca)
-[![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71) Syllabus](https://canvas.sfu.ca)  
+[![Course Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71) Course Syllabus](https://canvas.sfu.ca)  
 
 <style>
   :root {

@@ -3,97 +3,96 @@
 ### [A](#a) | B | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | R | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
 
 ### A
-[Accessibility](week-12)  
-[Agile UX](week-01)  
+[Accessibility](week-13)  
+[Agile UX](week-02)  
 
 ### C
-[Color](week-12)  
-[Conceptual Models](week-07)  
-[Contextual Inquiry](week-05)  
+[Color](week-13)  
+[Conceptual Models](week-08)  
+[Contextual Inquiry](week-06)  
 
 ### D
-[Design Ethics](week-01)  
-[Designing for Touch](week-02)  
-[User Scenarios (also called Design Scenarios)](week-08)  
-[Design Thinking](week-01)  
-[Discovery Research](week-05)  
+[Design Ethics](week-02)  
+[Designing for Touch](week-03)  
+[User Scenarios (also called Design Scenarios)](week-09)  
+[Design Thinking](week-02)  
+[Discovery Research](week-06)  
 
 ### E
-[Emotional Design](week-07)  
-[Empathy Map](week-05)  
+[Emotional Design](week-08)  
+[Empathy Map](week-06)  
 
 ### F
-[Fitts’s Law](week-02)  
-[Five Dimensions of HCI](week-02)  
-[Five Whys](week-05)  
+[Fitts’s Law](week-03)  
+[Five Dimensions of HCI](week-03)  
+[Five Whys](week-06)  
 
 ### G
-[Grids](week-12)  
+[Grids](week-13)  
 
 ### H
-[HCI Laws](week-03)  
-[Heuristic Evaluations](week-04)  
-[Hick’s Law](week-03)  
-[Hypothesis](week-01)  
+[HCI Laws](week-04)  
+[Heuristic Evaluations](week-05)  
+[Hick’s Law](week-04)  
+[Hypothesis](week-02)  
 
 ### I
-[Icons](week-11)  
-[Inclusive Design](week-07)  
-[Interaction Design](week-02)  
-[Interviews](week-05)  
+[Icons](week-12)  
+[Inclusive Design](week-08)  
+[Interaction Design](week-03)  
+[Interviews](week-06)  
 
 ### J
-[Jakob Nielsen’s Heuristics](week-03)  
-[Jobs to Be Done Framework](week-05)  
-[Job Stories](week-05)    
+[Jakob Nielsen’s Heuristics](week-04)  
+[Jobs to Be Done Framework](week-06)  
+[Job Stories](week-06)    
 
 ### L
-[Layout](week-11)  
-[Lean UX](week-01)  
+[Layout](week-12)  
+[Lean UX](week-02)  
 
 ### M
-[Microsoft Product Reaction Cards](week-01)  
-[Miller’s Law](week-02)  
-[Mobile Design](week-02)  
-[Multi-device Design](week-02)  
+[Microsoft Product Reaction Cards](week-02)  
+[Miller’s Law](week-03)  
+[Mobile Design](week-03)  
+[Multi-device Design](week-03)  
 
 ### N
-[Norman’s Design Principles](week-07)
+[Norman’s Design Principles](week-08)
 
 ### O
-[Outcomes](week-01)
+[Outcomes](week-02)
 
 ### P
-[Power Law of Practice](week-02)  
-[Problem Statements](week-01)  
-[Prototyping](week-08)  
-[Proto-Personas](week-05)  
+[Power Law of Practice](week-03)  
+[Problem Statements](week-02)  
+[Prototyping](week-09)  
+[Proto-Personas](week-06)  
 
 ### S
-[Scenario-based Design (and Task-Centered Design)](week-08)  
-[Scenarios (also called User Scenarios)](week-08)  
-[Sketching](week-08)
-[Software Design Processes](week-01)  
-[Storyboards](week-08)  
-[Systems Thinking](week-01)
+[Scenario-based Design (and Task-Centered Design)](week-09)  
+[Scenarios (also called Task Examples)](week-09)  
+[Sketching](week-09)
+[Software Design Processes](week-02)  
+[Storyboards](week-09)  
+[Systems Thinking](week-02)  
 
 ### T
-[Task Analysis](week-01)  
-[Typography](week-12)  
+[Task Analysis](week-02)  
+[Typography](week-13)  
 
 ### U
-[Usability](week-01)  
-[Usability Goals](week-01)  
-[Usability Testing](week-09)  
-[User-centered Design (UCD)](week-01)  
-[User Experience Design](week-01)  
-[User Research](week-05)  
-[User Research Analysis](week-05)  
-[User Scenarios (also called Scenarios)](week-08)  
-[User Stories](week-05)  
-[UX Goals](week-01)  
+[Usability](week-02)  
+[Usability Goals](week-02)  
+[Usability Testing](week-10)  
+[User-centered Design (UCD)](week-02)  
+[User Experience Design](week-02)  
+[User Research](week-06)  
+[User Research Analysis](week-06)  
+[User Stories](week-06)  
+[UX Goals](week-02)  
 
 ### V
-[Visual Design](week-11)  
-[Visual Design Principles (CRAP)](week-11)  
-[Visual Hierarchy](week-11)  
+[Visual Design](week-12)  
+[Visual Design Principles (CRAP)](week-12)  
+[Visual Hierarchy](week-12)  
