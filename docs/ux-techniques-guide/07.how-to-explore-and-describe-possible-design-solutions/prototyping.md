@@ -1,6 +1,7 @@
 Prototyping  
 _The creation of a working model of a system or interface._
 
+*   [Content First, Design Second: Prototyping with Words and Adobe XD](https://blog.prototypr.io/content-first-design-second-prototyping-with-words-and-adobe-xd-c4c07cac21ef)
 *   [Design Better And Faster With Rapid Prototyping](http://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/)  
 *   [Designer’s Toolkit: Prototyping Tools](http://www.cooper.com/prototyping-tools)  
 *   [Designing with Code](http://www.uxbooth.com/articles/designing-with-code/)  
