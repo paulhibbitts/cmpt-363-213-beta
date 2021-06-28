@@ -206,9 +206,9 @@
 
 [Typography](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/typography.md ':include')
 
-[Visual Design Principles (CRAP)](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/visual-design-principles.md ':include')
+[Weekly Visual Design Principles (CRAP)](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/visual-design-principles.md ':include')
 
-[Visual Interface Design](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/visual-interface-design.md ':include')
+[Weekly Visual Interface Design](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/visual-interface-design.md ':include')
 
 </details>
 

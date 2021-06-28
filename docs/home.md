@@ -21,14 +21,15 @@
 
 Chat 1-on-1 Office Hours:  
 Contact Paul here or [CSSS Discord](https://t.co/GZQUc6iVjS):  
+Mondays 12:00-12:30pm PT  
 Wednesdays 12:00-12:30pm PT  
-Fridays 12:00-12:30pm PT  
 
 </div>
 <div class="column">
 
 Zoom 1-on-1 Office Hours:  
-[Wednesdays 12:30-1:30pm PT](#)
+[Tuesdays 1:30-2:00pm PT](#)  
+[Thursdays 3:30-4:00pm PT](#)  
 
 </div>
 </div>
