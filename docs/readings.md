@@ -82,8 +82,8 @@
 **The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (1 of 2 for Week 8)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860">The Right Tool For The Job: Picking The Best Prototyping Software For Your Project</a>
 
-**User Scenarios (2 of 2 for Week 8)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.interaction-design.org/literature/topics/user-scenarios">User Scenarios</a>
+**Chapter 2: Getting to Know Users and Their Tasks (2 of 2 for Week 8)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://courses.cs.washington.edu/courses/cse440/08au/readings_files/lewis-reiman/chap-2.v-1.html">Chapter 2: Getting to Know Users and Their Tasks</a>
 
 ## Week 9
 ### How to plan, conduct, and summarize usability tests?
