@@ -82,7 +82,7 @@
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Nov 2 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Nov 4 2:30pm PT](#)</span>  
 :fas fa-book fa-fw: [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
-:fas fa-book fa-fw: [Chapter 2: Getting to Know Users and Their Tasks (22 minute read)](https://courses.cs.washington.edu/courses/cse440/08au/readings_files/lewis-reiman/chap-2.v-1.html)  
+:fas fa-book fa-fw: [Using scenarios in design (5 minute read)](https://fordes.de/posts/usingscenariosindesign.html)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 9](#) <span class='badge'> [TBD](#)</span>    
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 9](#) <span class='badge'> [TBD](#)</span>  
 
