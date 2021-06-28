@@ -27,9 +27,9 @@ Wednesdays 12:00-12:30pm PT
 </div>
 <div class="column">
 
-Zoom 1-on-1 Office Hours:  
-[Tuesdays 1:30-2:00pm PT](#)  
-[Thursdays 3:30-4:00pm PT](#)  
+[Zoom 1-on-1 Office Hours](#):  
+Tuesdays 1:30-2:00pm PT  
+Thursdays 3:30-4:00pm PT  
 
 </div>
 </div>
