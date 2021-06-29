@@ -20,8 +20,8 @@
 **An Introduction to User Experience Design (2 of 3 for Week 1)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://marvelapp.com/blog/introduction-user-experience-design/">An Introduction to User Experience Design</a>
 
-**Why UX Outcomes Make Better Goals Than Business Outcomes (3 of 3 for Week 1)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes">Why UX Outcomes Make Better Goals Than Business Outcomes</a>
+**Applying systems thinking in product design (3 of 3 for Week 1)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.intercom.com/blog/applying-systems-thinking-in-product-design/">Applying systems thinking in product design</a>
 
 ## Week 2
 ### What is the practice of multi-device interaction design?

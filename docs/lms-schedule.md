@@ -11,7 +11,7 @@
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 16 2:30pm PT](#)</span>  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 :fas fa-book fa-fw: [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
-:fas fa-book fa-fw: [Why UX Outcomes Make Better Goals Than Business Outcomes (5 minute read)](https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes)  
+:fas fa-book fa-fw: [Applying systems thinking in product design (9 minute read)](https://www.intercom.com/blog/applying-systems-thinking-in-product-design/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 2](#) <span class='badge'> [Wed Sep 15 11:59pm PT](#)</span>   
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 2](#) <span class='badge'> [Fri Sep 17th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20210917T235900)</span>  
 
