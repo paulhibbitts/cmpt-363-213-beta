@@ -28,6 +28,6 @@
 
 ## Supplemental Readings
 
-[Cognitive Walkthrough](ux-techniques-guide/07.how-to-conduct-a-user-interface-inspection/cognitive-walkthroughs.md ':include')
+[Cognitive Walkthrough](ux-techniques-guide/02.how-to-conduct-a-user-interface-inspection/cognitive-walkthroughs.md ':include')
 
-[Heuristic Evaluations](ux-techniques-guide/07.how-to-conduct-a-user-interface-inspection/heuristic-evaluations.md ':include')
+[Heuristic Evaluations](ux-techniques-guide/02.how-to-conduct-a-user-interface-inspection/heuristic-evaluations.md ':include')

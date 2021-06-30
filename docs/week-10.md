@@ -22,10 +22,10 @@
 
 ## Supplemental Readings  
 
-[Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal.md ':include')
+[Usability Testing](ux-techniques-guide/03.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal.md ':include')
 
-[Usability Test Surveys](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys.md ':include')
+[Usability Test Surveys](ux-techniques-guide/03.how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys.md ':include')
 
-[Usability Test Tasks](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks.md ':include')
+[Usability Test Tasks](ux-techniques-guide/03.how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks.md ':include')
 
-[Remote Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-remote.md ':include')
+[Remote Usability Testing](ux-techniques-guide/03.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-remote.md ':include')

@@ -27,20 +27,20 @@
 
 ## Supplemental Readings  
 
-[Discovery Research](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/discovery-research.md ':include')
+[Discovery Research](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/discovery-research.md ':include')
 
-[Empathy Maps](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/empathy-maps.md ':include')
+[Empathy Maps](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/empathy-maps.md ':include')
 
-[Interviews](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/interviews.md ':include')
+[Interviews](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/interviews.md ':include')
 
-[Job Stories](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/job-stories.md ':include')
+[Job Stories](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/job-stories.md ':include')
 
-[Personas](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/personas.md ':include')
+[Personas](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/personas.md ':include')
 
-[Problem Framing](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/problem-framing.md ':include')
+[Problem Framing](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/problem-framing.md ':include')
 
-[Task Analysis](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/task-analysis.md ':include')
+[Task Analysis](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/task-analysis.md ':include')
 
-[Thematic Analysis](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/thematic-analysis.md ':include')
+[Thematic Analysis](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/thematic-analysis.md ':include')
 
-[User Research](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research.md ':include')
+[User Research](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research.md ':include')

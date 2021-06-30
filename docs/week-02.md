@@ -35,7 +35,7 @@
 
 [Outcomes](ux-techniques-guide/01.what-is-usability-and-user-experience-design/outcomes.md ':include')
 
-[Problem Statements](ux-techniques-guide/03.what-is-the-practice-of-multidevice-interaction-design/problem-statements.md ':include')
+[Problem Statements](ux-techniques-guide/05.what-is-the-practice-of-multidevice-interaction-design/problem-statements.md ':include')
 
 [Usability](ux-techniques-guide/01.what-is-usability-and-user-experience-design/usability.md ':include')
 

@@ -34,10 +34,10 @@ Balsamiq Wireframes for Google Drive Overview
 
 ## Supplemental Readings  
 
-[Brainstorming](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/brainstorming.md ':include')
+[Brainstorming](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/brainstorming.md ':include')
 
-[Prototyping](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/prototyping.md ':include')
+[Prototyping](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/prototyping.md ':include')
 
-[Scenarios](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/scenarios.md ':include')
+[Scenarios](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/scenarios.md ':include')
 
-[Storyboards](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')
+[Storyboards](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')
