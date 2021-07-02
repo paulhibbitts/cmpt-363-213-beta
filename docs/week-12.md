@@ -6,14 +6,14 @@
 [Individual Interactive Prototype](#) <span class='badge'> TBD</span>
 
 ## One-minute Summaries & Questions
-[The Principles of Design and Their Importance](#) <span class='badge'> TBD</span>  
-[Fundamentals of layout in user interface design (UI)](#)  <span class='badge'> TBD</span>  
-[Guide for designing better mobile apps typography](#)  <span class='badge'> TBD</span>  
+[5 Principles of Visual Design in UX](#) <span class='badge'> TBD</span>  
+[Visual Hierarchy: Organizing content to follow natural eye movement patterns](#)  <span class='badge'> TBD</span>  
+[Fundamentals of typography in user interface design (UI)](#)  <span class='badge'> TBD</span>  
 
 ## Required Readings  
-[The Principles of Design and Their Importance (9 minute read)](https://www.toptal.com/designers/ui/principles-of-design)  
-[Fundamentals of layout in user interface design (UI) (13 minute read)](https://uxdesign.cc/fundamentals-of-layout-in-interface-design-ui-3a9dba31f1)  
-[Guide for designing better mobile apps typography (6 minute read)](https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f)  
+[5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
+[Visual Hierarchy: Organizing content to follow natural eye movement patterns (13 minute read)](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)  
+[Fundamentals of typography in user interface design (UI) (7 minute read)](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)  
 
 ## BlackBoard Collaborate Session Slides
 [Weekly Visual Design Essentials — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vRmdoopTNvxKSMr8rONABJZiUt3FKBywIV1ZUwwSFYoIC9B3ksjoelbzX8g7pjcfezWUWkBXHBVMQci/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  

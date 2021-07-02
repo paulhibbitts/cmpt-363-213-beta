@@ -107,9 +107,9 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-pen fa-fw: [Individual Interactive Prototype](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Nov 23 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Nov 25 2:30pm PT](#)</span>  
-:fas fa-book fa-fw: [The Principles of Design and Their Importance (9 minute read)](https://www.toptal.com/designers/ui/principles-of-design)  
-:fas fa-book fa-fw: [Fundamentals of layout in user interface design (UI) (13 minute read)](https://uxdesign.cc/fundamentals-of-layout-in-interface-design-ui-3a9dba31f1)  
-:fas fa-book fa-fw: [Guide for designing better mobile apps typography (6 minute read)](https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f)  
+:fas fa-book fa-fw: [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
+:fas fa-book fa-fw: [Visual Hierarchy: Organizing content to follow natural eye movement patterns (13 minute read)](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)  
+:fas fa-book fa-fw: [Fundamentals of typography in user interface design (UI) (7 minute read)](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 12](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 12](#) <span class='badge'> [TBD](#)</span>  
 
