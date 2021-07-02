@@ -69,7 +69,7 @@
 ## Week 8
 ### How to bridge the gap between the problem space and design space?
 **Leveraging Mental Models in Product Design (1 of 3 for Week 7)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d">Leveraging Mental Models in Product Design/a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d">Leveraging Mental Models in Product Design</a>
 
 **Don Norman’s Principles of Interaction Design (2 of 3 for Week 7)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33">Don Norman’s Principles of Interaction Design</a>
