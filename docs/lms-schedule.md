@@ -31,7 +31,7 @@
 :fas fa-pen fa-fw: [Individual Heuristic Inspection Assignment](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 28 2:30pm PT](#)</span>   
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 30 2:30pm PT](#)</span>   
-:fas fa-book fa-fw: [Heuristic Evaluation: How to Conduct a Heuristic Evaluation (10 minute read)](https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation)  
+:fas fa-book fa-fw: [How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  
 :fas fa-book fa-fw: [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 4](#) <span class='badge'> [TBD](#)</span>  

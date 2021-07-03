@@ -6,11 +6,11 @@
 [Individual Heuristic Inspection](#) <span class='badge'> TBD</span>  
 
 ## One-minute Summaries & Questions
-[Heuristic Evaluation: How to Conduct a Heuristic Evaluation](#) <span class='badge'> TBD</span>  
+[How to Use Heuristic Evaluations to Improve Product Designs](#) <span class='badge'> TBD</span>  
 [Severity Ratings for Usability Problems](#) <span class='badge'> TBD</span>  
 
 ## Required Readings  
-[Heuristic Evaluation: How to Conduct a Heuristic Evaluation (10 minute read)](https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation)  
+[How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  
 [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   
 
 ## BlackBoard Collaborate Session Slides
