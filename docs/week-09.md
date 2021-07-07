@@ -25,7 +25,7 @@
 ## Downloads
 [Sketching Templates](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Sketching%20Templates)  
 
-## Supplemental Materials  
+## Supplemental Videos  
 [UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/MwidSAlbEB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

@@ -12,4 +12,5 @@ _An evaluation method where participants try to complete certain tasks using a s
 *   [Success Rate: The Simplest Usability Metric (Jakob Nielsen's Alertbox)](http://www.useit.com/alertbox/20010218.html)  
 *   [Talking with Participants During a Usability Test](https://www.nngroup.com/articles/talking-to-users/)  
 *   [Usability Testing (Usability BoK)](http://www.usabilitybok.org/usability-testing)  
+*   [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/)  
 *   [Usability Testing Guide](https://boxesandarrows.com/usability-testing-guide/)
