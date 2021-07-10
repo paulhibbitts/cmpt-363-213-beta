@@ -20,8 +20,8 @@
 **An Introduction to User Experience Design (2 of 3 for Week 1)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://marvelapp.com/blog/introduction-user-experience-design/">An Introduction to User Experience Design</a>
 
-**User Need Statements: The ‘Define’ Stage in Design Thinking (3 of 3 for Week 1)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/user-need-statements/">User Need Statements: The ‘Define’ Stage in Design Thinking</a>
+**Why UX Outcomes Make Better Goals Than Business Outcomes (3 of 3 for Week 1)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes">Why UX Outcomes Make Better Goals Than Business Outcomes</a>
 
 ## Week 3
 ### What is the practice of multi-device interaction design?
@@ -55,8 +55,8 @@
 **How to Leverage Thematic Analysis for Better UX (2 of 3 for Week 5)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux">How to Leverage Thematic Analysis for Better UX</a>
 
-**Replacing The User Story With The Job Story (3 of 3 for Week 5)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27">Replacing The User Story With The Job Story</a>
+**User Need Statements: The ‘Define’ Stage in Design Thinking (3 of 3 for Week 5)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/user-need-statements/">User Need Statements: The ‘Define’ Stage in Design Thinking</a>
 
 ## Week 7
 ### Instructor user research plan group meetings
