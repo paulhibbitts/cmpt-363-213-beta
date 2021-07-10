@@ -20,8 +20,8 @@
 **An Introduction to User Experience Design (2 of 3 for Week 1)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://marvelapp.com/blog/introduction-user-experience-design/">An Introduction to User Experience Design</a>
 
-**Why UX Outcomes Make Better Goals Than Business Outcomes (3 of 3 for Week 1)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes">Why UX Outcomes Make Better Goals Than Business Outcomes</a>
+**User Need Statements: The ‘Define’ Stage in Design Thinking (3 of 3 for Week 1)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/user-need-statements/">User Need Statements: The ‘Define’ Stage in Design Thinking</a>
 
 ## Week 3
 ### What is the practice of multi-device interaction design?

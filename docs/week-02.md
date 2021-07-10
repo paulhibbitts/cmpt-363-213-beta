@@ -5,12 +5,12 @@
 ## One-minute Summaries & Questions
 [Defining usability](#) <span class='badge'> TBD </span>  
 [The UX Pyramid](#) <span class='badge'> TBD </span>  
-[Why UX Outcomes Make Better Goals Than Business Outcomes](#) <span class='badge'> TBD </span>
+[User Need Statements: The ‘Define’ Stage in Design Thinking](#) <span class='badge'> TBD </span>
 
 ## Required Readings  
 [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
-[Why UX Outcomes Make Better Goals Than Business Outcomes (5 minute read)](https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes)  
+[User Need Statements: The ‘Define’ Stage in Design Thinking (12 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
 
 ## BlackBoard Collaborate Session Slides
 [Introduction to UX — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/59869/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
