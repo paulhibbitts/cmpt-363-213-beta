@@ -10,7 +10,7 @@
 * Course Introduction <span class='badge'> [Thu Sep 9 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Overview&iso=20210909T1430&p1=256&am=50)</span>
 
 ### Suggested Readings
-[Course Syllabus](https://canvas.sfu.ca)
+[Course Syllabus](https://canvas.sfu.ca/courses/63875/assignments/syllabus)
 
 </div>
 
