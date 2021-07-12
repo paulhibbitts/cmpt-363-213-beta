@@ -47,6 +47,6 @@ Thursdays 3:30-4:00pm PT
 
 ### Week 2 Required Readings and One-Minute Summaries
 
-* [Defining usability](https://canvas.sfu.ca/courses/63875/discussion_topics/1302283) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+2+%28Sep+12+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210915T2359&p1=256)</span>
-* [An Introduction to User Experience Design](https://canvas.sfu.ca/courses/63875/discussion_topics/1302282) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+2+%28Sep+12+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210915T2359&p1=256)</span>
-* [Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/63875/discussion_topics/1314389) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+2+%28Sep+12+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210915T2359&p1=256)</span>
+* [Defining usability](https://canvas.sfu.ca/courses/63875/assignments/656187) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+2+%28Sep+12+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210915T2359&p1=256)</span>
+* [An Introduction to User Experience Design](https://canvas.sfu.ca/courses/63875/assignments/656186) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+2+%28Sep+12+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210915T2359&p1=256)</span>
+* [Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/63875/assignments/662090) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+2+%28Sep+12+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210915T2359&p1=256)</span>
