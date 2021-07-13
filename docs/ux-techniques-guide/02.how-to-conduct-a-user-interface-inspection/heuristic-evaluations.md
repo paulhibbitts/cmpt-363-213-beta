@@ -1,6 +1,7 @@
 Heuristic Evaluations  
 _The evaluation of a user interface against a checklist of design rules or heuristics._
 
+*   [10 Usability Heuristics Applied to Virtual Reality](https://www.nngroup.com/articles/usability-heuristics-virtual-reality/)  
 *   [An Introduction To Heuristic Evaluation](http://usabilitygeek.com/heuristic-evaluation-introduction/)  
 *   [How to Conduct a Heuristic Evaluation](http://www.useit.com/papers/heuristic/heuristic_evaluation.html)  
 *   [How to run an heuristic evaluation](http://uxmastery.com/how-to-run-an-heuristic-evaluation/)  
