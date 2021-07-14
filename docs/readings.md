@@ -60,10 +60,13 @@
 
 ## Week 7
 ### Instructor user research plan group meetings
-**User Interviews: How, When, and Why to Conduct Them (1 of 2 for Week 6)**  
+**Remote User Testing and Usability Testing: How to Conduct Research from Anywhere in the World (1 of 3 for Week 6)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.userinterviews.com/blog/remote-usability-testing-and-user-testing">Remote User Testing and Usability Testing: How to Conduct Research from Anywhere in the World</a>
+
+**User Interviews: How, When, and Why to Conduct Them (2 of 3 for Week 6)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/user-interviews/">User Interviews: How, When, and Why to Conduct Them</a>
 
-**User Research When You Can’t Talk to Your Users (2 of 2 for Week 6)**  
+**User Research When You Can’t Talk to Your Users (3 of 3 for Week 6)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/">User Research When You Can’t Talk to Your Users</a>
 
 ## Week 8

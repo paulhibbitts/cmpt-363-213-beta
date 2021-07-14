@@ -59,6 +59,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 7 (Oct 18 - 24)](week-07)
 **Instructor user research plan group meetings**   
+:fas fa-book fa-fw: [Remote User Testing and Usability Testing: How to Conduct Research from Anywhere in the World (12 minute read)](https://www.userinterviews.com/blog/remote-usability-testing-and-user-testing)  
 :fas fa-book fa-fw: [User Interviews: How, When, and Why to Conduct Them (13 minute read)](https://www.nngroup.com/articles/user-interviews/)  
 :fas fa-book fa-fw: [User Research When You Can’t Talk to Your Users (12 minute read)](https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 7](#) <span class='badge'> [TBD](#)</span>  
