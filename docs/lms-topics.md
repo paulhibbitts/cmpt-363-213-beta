@@ -1,6 +1,6 @@
 # Topics
 
-### [A](#a) | B | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | R | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
+### [A](#a) | B | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
 
 ### A
 [Accessibility](week-13)  
@@ -68,6 +68,9 @@
 [Problem Statements](week-06)  
 [Prototyping](week-09)  
 [Proto-Personas](week-06)  
+
+### R
+[Remote User Research and Usability Techniques](week-07)  
 
 ### S
 [Scenario-based Design (and Task-Centered Design)](week-09)  

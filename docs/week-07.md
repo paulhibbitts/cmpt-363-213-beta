@@ -8,7 +8,7 @@ No regularly scheduled Blackboard Collaborate sessions.
 Zoom group meetings between 12:00pm and 4:00pm PT on TBD.
 
 ## One-minute Summaries & Questions
-[Remote User Testing and Usability Testing: How to Conduct Research from Anywhere in the World](#) <span class='badge'> TBD</span>
+[Remote User Testing and Usability Testing: How to Conduct Research from Anywhere in the World](#) <span class='badge'> TBD</span>  
 [Asking the right questions during user research, interviews and testing](#) <span class='badge'> TBD</span>  
 [User Research When You Can’t Talk to Your Users](#) <span class='badge'> TBD</span>  
 
