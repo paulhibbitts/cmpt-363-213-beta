@@ -3,7 +3,7 @@
 # How to explore and communicate possible design solutions?
 
 ## Assignments
-[Group Storyboard Mockups](#) <span class='badge'> TBD</span>  
+[Group Usability Tested Mockups](#) <span class='badge'> TBD</span>  
 
 ## One-minute Summaries & Questions
 [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](#) <span class='badge'> TBD</span>  
