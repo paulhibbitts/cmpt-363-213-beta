@@ -20,6 +20,11 @@
 
 <div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/1UCDUOB_aS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+[NNgroup - Running a Remote Usability Test](https://www.youtube.com/playlist?list=PLk2Bz5X36nXBPZjo00QQjDsGugovJ202t)  
+
+<div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZkDafFDtJ1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 ## Supplemental Readings  
 
 [Usability Testing](ux-techniques-guide/03.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal.md ':include')
