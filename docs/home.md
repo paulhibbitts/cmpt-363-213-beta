@@ -1,7 +1,7 @@
 
 <div class=alert>
 
-# What’s Happening this Week 💫
+# What’s Happening Next Week 💫
 
 ## Course overview
 
